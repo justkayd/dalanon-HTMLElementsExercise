@@ -1,0 +1,10 @@
+#container{
+    background-color: #ccc;
+    width: 500px;
+}
+
+.box {
+    background-color: #ddd;
+    width: 300px;
+    padding: 20px;
+}
